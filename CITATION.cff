@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this HOL Light formalization, please cite it using the metadata below."
 title: "C2 HOL Light formalization"
 type: software
-version: "zenodo-2026-05-06"
+version: "zenodo-2026-05-06.1"
 date-released: "2026-05-06"
 repository-code: "https://github.com/thiagomassensini/c2_hol_light"
 url: "https://github.com/thiagomassensini/c2_hol_light"
