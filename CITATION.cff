@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this HOL Light formalization, please cite it using the metadata below."
+title: "C2 HOL Light formalization"
+type: software
+version: "zenodo-2026-05-06"
+date-released: "2026-05-06"
+repository-code: "https://github.com/thiagomassensini/c2_hol_light"
+url: "https://github.com/thiagomassensini/c2_hol_light"
+abstract: >-
+  HOL Light formalization of the C2 route K layers currently covering branch barrier,
+  residual transfer, c0 normalization, continuation interfaces, meromorphic bridge,
+  transversality, and the off-axis full-chain Taylor-dominance endpoint.
+keywords:
+  - HOL Light
+  - formal mathematics
+  - Riemann zeta function
+  - continuation identity
+  - C2 framework
+authors:
+  - family-names: "Motta"
+    given-names: "Thiago F."
+    affiliation: "Independent Research"
+    orcid: "https://orcid.org/0009-0002-3415-9805"
